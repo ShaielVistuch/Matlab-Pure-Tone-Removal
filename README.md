@@ -7,3 +7,4 @@ The DTFT is defined by:
 $X(e^(jΩ) )=∑x[n]e^(-(jΩn))$
 The inverse transform:
 $x[n]=1/(2π) ∫_ϵ ^((2π+ϵ)) X(e^jΩ)e^(jΩt) dΩ$
+x[n]=1/2π ∫_ϵ^(2π+ϵ)▒〖X(e^jΩ)e^jΩt 〗 dΩ
