@@ -1,4 +1,4 @@
-# Matlab-Pure-Tone-Removaך
+# Matlab-Pure-Tone-Removal
 Signal and systems noise frequency detection project. In collaboration with Noa Reina.
 <br /><br />
 Assuming a noise disturbance of cos(w_0*n), we must remove it from the signal, by find the frequency w_0.
