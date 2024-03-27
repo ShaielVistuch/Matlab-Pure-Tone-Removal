@@ -6,5 +6,5 @@ We can do that by using the DTFT, which will give us two main impulses, exacly a
 The DTFT is defined by:
 $X(e^(jΩ) )=∑x[n]e^(-(jΩn))$
 The inverse transform:
-$x[n]=1/(2π) ∫_ϵ ^((2π+ϵ)) X(e^jΩ)e^(jΩt) dΩ$
-x[n]=1/2π ∫_ϵ^(2π+ϵ)▒〖X(e^jΩ)e^jΩt 〗 dΩ
+$x[n]=1/(2π) ∫_ϵ ^(2*π+ϵ) X(e^jΩ)e^(jΩt) dΩ$
+
