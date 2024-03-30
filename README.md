@@ -6,7 +6,7 @@ We can do that by using the DTFT, which will give us two main impulses, exacly a
 <br />
 ![DTFT](https://github.com/ShaielVistuch/Matlab-Pure-Tone-Removal/assets/133270551/9c9d0d1b-d128-46fd-ae39-bfa4db5fb56a)
 <br />
-So, after obtaining the DTFT, we can find w0 using the code:
+So, after obtaining the DTFT, we can find w_0 using the code:
 <br /><br />
 [M,I] = max(X); %determines where the upside down picks are<br />
 % M is the X-omega value at the upside down pick<br />
