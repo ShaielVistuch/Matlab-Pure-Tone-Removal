@@ -13,5 +13,5 @@ So, after obtaining the DTFT, we can find w_0 using the code:
 % I is the index of M place in the vector X<br />
 w0 = omega(I); 
 <br /><br />
-Then, we made three different filters to remove the w0 frequency. 
+Then, we made three different filters to remove noise using the w_0 frequency. 
 
