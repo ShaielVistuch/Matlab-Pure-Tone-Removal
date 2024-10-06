@@ -5,8 +5,6 @@ Assuming a noise disturbance of cos(w_0*n), we must remove it from the signal, b
 We can do that by using the DTFT, which will give us two main impulses, exacly at w_0 and -w_0.
 <br />
 ![image](https://github.com/user-attachments/assets/0b4eceef-764a-4831-bf62-61b7a61a4b40)
-
-<br />
 So, after obtaining the DTFT, we can find w_0 using the code:
 <br /><br />
 [M,I] = max(X); %determines where the upside down picks are<br />
